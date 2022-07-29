@@ -1,0 +1,11 @@
+D:\DOC\Demo\DemoSlu\SharpDX\bin\Debug\SharpDX.exe.config
+D:\DOC\Demo\DemoSlu\SharpDX\bin\Debug\SharpDX.exe
+D:\DOC\Demo\DemoSlu\SharpDX\bin\Debug\SharpDX.pdb
+D:\DOC\Demo\DemoSlu\SharpDX\bin\Debug\SharpDX.dll
+D:\DOC\Demo\DemoSlu\SharpDX\obj\Debug\SharpDX.csprojAssemblyReference.cache
+D:\DOC\Demo\DemoSlu\SharpDX\obj\Debug\SharpDX.Properties.Resources.resources
+D:\DOC\Demo\DemoSlu\SharpDX\obj\Debug\SharpDX.csproj.GenerateResource.cache
+D:\DOC\Demo\DemoSlu\SharpDX\obj\Debug\SharpDX.csproj.CoreCompileInputs.cache
+D:\DOC\Demo\DemoSlu\SharpDX\obj\Debug\SharpDX.csproj.CopyComplete
+D:\DOC\Demo\DemoSlu\SharpDX\obj\Debug\SharpDX.exe
+D:\DOC\Demo\DemoSlu\SharpDX\obj\Debug\SharpDX.pdb
